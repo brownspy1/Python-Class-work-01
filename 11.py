@@ -20,5 +20,7 @@ matrix_2 = [
     [8,5,6],
     [8,6,2]
 ]
+# add 1 and 2 matrix
 add_matrix(matrix_1,matrix_2)
+# substrac 1 and 2 matrix
 subtract_matrix(matrix_1,matrix_2)
