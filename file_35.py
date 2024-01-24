@@ -1,2 +1,7 @@
 # This Program by m.mahadi 
- program number 35")
+#Celsius to Fahrenheit.
+def convaratar(Celsius):
+    Fahrenheit = (Celsius * 9 / 5) + 32
+    print(Fahrenheit)
+Celsius = float(input(""))
+convaratar(Celsius)
