@@ -5,6 +5,5 @@ def leep_year(year):
     else:
         print(f"{year} not a leap year")
 
-
 year = int(input("Enter a year: "))
 leep_year(year)

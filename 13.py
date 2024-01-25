@@ -6,6 +6,5 @@ def seres(n):
         add += i
         print(add)
 
-
 n = int(input())
 seres(n)
